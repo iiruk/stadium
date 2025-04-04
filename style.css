@@ -1,0 +1,16 @@
+body{
+    font-family: tahoma;
+       background-color: crimson; 
+}
+header{
+    color: white;
+    text-align: center;
+    height: 370px;
+}
+main{
+    text-align: center;
+    background-color: white;
+}
+section{
+    background-color: white;
+}
